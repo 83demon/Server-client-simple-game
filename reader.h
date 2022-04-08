@@ -9,7 +9,7 @@ class Reader{
 public:
     std::pair<int, std::string> read(){
         std::vector<Point> res;
-        std::ifstream file("/home/vo1/Documents/Навчання/2 course/OOP/OOP/server_client/common/params.txt");
+        std::ifstream file("/common/params.txt");
         int a;
         std::string b;
         file >> a >> b;
