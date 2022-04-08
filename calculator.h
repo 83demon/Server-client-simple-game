@@ -5,8 +5,8 @@
 #pragma once
 #include "SFML/Network.hpp"
 #include "SFML/Graphics.hpp"
-#include "/home/vo1/Documents/Навчання/2 course/OOP/OOP/server_client/common/point.h"
-#include "/home/vo1/Documents/Навчання/2 course/OOP/OOP/server_client/common/exception.h"
+#include "/common/point.h"
+#include "/common/exception.h"
 #include <cmath>
 class Calculator{
     int width = 1300, height = 600;
