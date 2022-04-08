@@ -5,7 +5,7 @@
 #pragma once
 #include "SFML/Graphics.hpp"
 #include "sockets.h"
-#include "/home/vo1/Documents/Навчання/2 course/OOP/OOP/server_client/common/point.h"
+#include "/common/point.h"
 class Graphics{
     Socket socket;
     sf::RenderWindow window;
